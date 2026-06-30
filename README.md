@@ -1,6 +1,6 @@
 # Mupen64Plus-AE
 
-Mupen64Plus, Android Edition (AE) is an Android user interface for Mupen64Plus.
+Mupen64Plus, Android Edition (AE) is an Android user interface for Mupen64Plus
 
 Please visit [the official forum](http://www.paulscode.com/forum/index.php) for support and discussion.
 
